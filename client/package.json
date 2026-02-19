@@ -1,5 +1,5 @@
 {
-  "name": "thriveryd-client",
+  "name": "thriveryde-client",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -10,5 +10,10 @@
   },
   "devDependencies": {
     "vite": "^4.5.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@tanstack/react-query": "^5.0.0"
   }
 }
