@@ -17,7 +17,7 @@
     "superjson": "^2.2.1"
   },
   "devDependencies": {
-    "vite": "^5.4.0",
-    "@builder.io/vite-plugin-jsx-locx": "^0.1.1"
-  }
+  "vite": "^5.4.0",
+  "@vitejs/plugin-react": "^4.2.0"
+ }
 }
