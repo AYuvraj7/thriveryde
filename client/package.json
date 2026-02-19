@@ -8,12 +8,16 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "devDependencies": {
-    "vite": "^4.5.0"
-  },
   "dependencies": {
+    "@tanstack/react-query": "^5.28.4",
+    "@trpc/client": "^10.45.0",
+    "@trpc/react-query": "^10.45.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@tanstack/react-query": "^5.0.0"
+    "superjson": "^2.2.1"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "@builder.io/vite-plugin-jsx-loco": "^0.1.1"
   }
 }
