@@ -1,12 +1,7 @@
-import React from "react";
-
-function App() {
+export default function App() {
   return (
-    <div style={{ padding: 20 }}>
-      <h1>ThriverYde App</h1>
-      <p>Deployment working successfully.</p>
+    <div style={{ padding: "40px", fontSize: "24px" }}>
+      🚀 Thriveryde React App is LIVE
     </div>
   );
 }
-
-export default App;
